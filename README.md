@@ -1,7 +1,7 @@
 # 🛡️ SMS Spam Detection — NLP Text Classification with TF-IDF & Machine Learning
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=831843,BE185D,F472B6&height=220&section=header&text=SMS%20Spam%20Detection&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=NLP%20Text%20Classification%20with%20TF-IDF%20%26%20Supervised%20Learning&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="SMS Spam Detection Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:BE185D,100:F472B6&customColorList=831843,BE185D,F472B6&height=220&section=header&text=SMS%20Spam%20Detection&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=NLP%20Text%20Classification%20with%20TF-IDF%20%26%20Supervised%20Learning&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="SMS Spam Detection Banner" />
 </p>
 
 <p align="center">
@@ -186,5 +186,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=831843,BE185D,F472B6&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:BE185D,100:F472B6&customColorList=831843,BE185D,F472B6&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
